@@ -1,0 +1,13 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Spatial Transcriptomics Course Outline</a></li>
+    download: ["pdf", "epub"]
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  keep_tex: true
+  latex_engine: xelatex

@@ -1,0 +1,69 @@
+---
+title: "Spatial Transcriptomics: From Data Acquisition to Interpretation - Course Outline"
+author: "Dr. Taru Dutt"
+date: "November 25th - 29th"
+output: bookdown::gitbook
+---
+
+# Introduction
+
+Welcome to the course outline for "Spatial Transcriptomics: From Data Acquisition to Interpretation." This outline provides an overview of each day’s topics and objectives for the 5-day intensive course.
+
+## Course Schedule
+
+- **Day 1**: Introduction and Overview of Spatial Transcriptomics
+- **Day 2**: Data Quality Control and Normalization
+- **Day 3**: Feature Identification and Data Merging
+- **Day 4**: Cell-Cell Interaction and Spatial Pattern Analysis
+- **Day 5**: Data Visualization, Interpretation, and Reporting
+
+Each chapter in this outline corresponds to a day in the course and details the planned sessions and activities.
+
+# Day 1: Introduction and Overview of Spatial Transcriptomics
+
+## Morning Session (9:00 am - 12:00 pm)
+- **Course Introduction and Objectives**: Overview of the course structure and objectives, introduction to spatial transcriptomics, and setting the context.
+- **Overview of Spatial Transcriptomics Technology**: Historical background, comparison with traditional transcriptomics, and introduction to the Visium platform.
+
+## Afternoon Session (1:00 pm - 5:00 pm)
+- **Experimental Design and Hypothesis-Driven Research**: Crafting research questions, experimental design, and best practices for spatial transcriptomics.
+- **Hands-On with Space Ranger**: Introduction to data acquisition using Space Ranger, aligning gene expression with tissue morphology, and generating outputs.
+
+# Day 2: Data Quality Control and Normalization
+
+## Morning Session (9:00 am - 12:00 pm)
+- **Introduction to Quality Control (QC)**: Understanding key QC metrics, visual QC assessment, and filtering data for reliability.
+- **Data Normalization Techniques**: Log-normalization, SCTransform, CLR normalization, and dealing with batch effects.
+
+## Afternoon Session (1:00 pm - 5:00 pm)
+- **Advanced Normalization and Integration**: Normalization tailored for spatial transcriptomics and integration with single-cell RNA-seq data.
+- **Hands-On Session**: Practical QC filtering and normalization techniques on provided datasets, visualization, and interpretation.
+
+# Day 3: Feature Identification and Data Merging
+
+## Morning Session (9:00 am - 12:00 pm)
+- **Identifying Spatially Variable Features**: Techniques for feature selection and identifying spatially variable genes.
+  
+## Afternoon Session (1:00 pm - 5:00 pm)
+- **Data Merging and Integration**: Strategies for combining datasets, handling batch effects, and practical session on data integration.
+- **Clustering and Cell-Type Identification**: Overview of clustering methods and cell-type identification for spatial transcriptomics data.
+
+# Day 4: Cell-Cell Interaction and Spatial Pattern Analysis
+
+## Morning Session (9:00 am - 12:00 pm)
+- **Cell-Cell Interaction Analysis**: Importance of cell-cell interactions in tissue function, techniques for analysis, and overview of tools.
+
+## Afternoon Session (1:00 pm - 5:00 pm)
+- **Hypothesis-Driven Cell-Cell Interaction Analysis**: Designing cell-cell interaction analyses based on specific hypotheses.
+- **Hands-On Session**: Applying tools for cell-cell interaction analysis, generating reports, and interpreting findings.
+
+# Day 5: Data Visualization, Interpretation, and Reporting
+
+## Morning Session (9:00 am - 12:00 pm)
+- **Data Visualization Techniques**: Generating high-quality visualizations, spatial heatmaps, and cell type maps.
+- **Biological Interpretation**: Linking spatial data to functional annotations and interpreting biological findings.
+
+## Afternoon Session (1:00 pm - 5:00 pm)
+- **Reporting and Communicating Results**: Structuring reports for spatial transcriptomics studies, creating publication-ready figures, and discussing complex spatial patterns.
+- **Final Project and Feedback**: Student presentations, group feedback, and a course recap.
+

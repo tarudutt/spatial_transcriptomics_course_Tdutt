@@ -1,0 +1,3 @@
+book_filename: "Spatial_Transcriptomics_Course_Outline"
+output_dir: "_book"
+delete_merged_file: true
